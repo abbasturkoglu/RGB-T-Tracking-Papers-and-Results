@@ -29,7 +29,3 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 
 
 
-
-
-
-In this table, the first column shows the name of the paper, the second column shows the backbone architecture used (e.g. ResNet-50, AlexNet), and the remaining columns show the precision and success rates achieved by the method on various benchmarks. The DOI link for each paper is provided in the last column.
