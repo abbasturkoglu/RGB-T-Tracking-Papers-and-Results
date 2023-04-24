@@ -26,8 +26,8 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 | SiamCDA [21]   | 2022 | 0.877/0.732      | -/-               | 0.760/0.569       | -/-              | [[Code]]                                                       | [[Paper](http://dx.doi.org/10.1109/TCSVT.2021.3072207)]                                                                                                               |
 | DuSiamRT [22]  | 2022 | 0.766/0.628      | -/-               | 0.567/0.384       | -/-              | [[Code]]                                                       | [[Paper](http://dx.doi.org/10.1007/s00371-021-02131-4)]                                                                                                               |
 | APFNet [23]    | 2022 | 0.905/0.739      | -/-               | 0.827/0.579       | 0.500/0.362      | [[Code](https://github.com/yangmengmeng1997/APFNet)]           | [[Paper](https://doi.org/10.1609/aaai.v36i3.20187)]                                                                                                                   |
-| MFGNet [24]    | 2022 | 0.889/0.707     | 0.749/0.494               | 0.783/0.535       | -/-       | [[Code](https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch)]           | [[Paper](https://doi.org/10.48550/arXiv.2107.10433)]                                                                                                                   |
-
+| MFGNet [24]    | 2022 | 0.889/0.707     | 0.749/0.494               | 0.783/0.535       | -/-       | [[Code](https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch)]           | [[Paper](https://doi.org/10.48550/arXiv.2107.10433)]                                       |
+| ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
 
 
 REFERENCES
@@ -78,4 +78,6 @@ REFERENCES
 
 [23] Y. Xiao, M. Yang, C. Li, L. Liu, and J. Tang, “Attribute-based progressive fusion network for rgbt tracking,” Proceedings of the AAAI Conference on Artificial Intelligence, vol. 36, pp. 2831–2838,6 2022.
 
-[24] Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, "Dynamic Modality-Aware Filter Generation for RGB-T Tracking", Accepted by IEEE Transactions on Multimedia (TMM), 2022
+[24] Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, "Dynamic Modality-Aware Filter Generation for RGB-T Tracking", Accepted by IEEE Transactions on Multimedia (TMM), 2022.
+
+[25] J. Zhu, S. Lai, X. Chen, D. Wang, and H. Lu, “Visual Prompt Multi-Modal Tracking,” arXiv.org, Mar. 20, 2023. https://arxiv.org/abs/2303.10826 (accessed Apr. 24, 2023).
