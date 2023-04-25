@@ -28,7 +28,7 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 | APFNet [23]    | 2022 | 0.905/0.739      | -/-               | 0.827/0.579       | 0.500/0.362      | [[Code](https://github.com/yangmengmeng1997/APFNet)]           | [[Paper](https://doi.org/10.1609/aaai.v36i3.20187)]                                                                                                                   |
 | MFGNet [24]    | 2022 | 0.889/0.707     | 0.749/0.494               | 0.783/0.535       | -/-       | [[Code](https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch)]           | [[Paper](https://doi.org/10.48550/arXiv.2107.10433)]                                       |
 | ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
-
+| ProTrack [26]    | 2023 |   -/-   |       -/-        |    0.786/0.587   | 0.509/0.421       | [[Code]]           | [[Paper](https://doi.org/10.48550/arXiv.2207.14571)]                                       |
 
 REFERENCES
 
@@ -81,3 +81,8 @@ REFERENCES
 [24] Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, "Dynamic Modality-Aware Filter Generation for RGB-T Tracking", Accepted by IEEE Transactions on Multimedia (TMM), 2022.
 
 [25] J. Zhu, S. Lai, X. Chen, D. Wang, and H. Lu, “Visual Prompt Multi-Modal Tracking,” arXiv.org, Mar. 20, 2023. https://arxiv.org/abs/2303.10826 (accessed Apr. 24, 2023).
+
+  
+[26] J. Yang, Z. Li, F. Zheng, A. Leonardis, and J. Song, “Prompting for Multi-Modal Tracking,” arXiv.org, Jul. 29, 2022. https://arxiv.org/abs/2207.14571 (accessed Apr. 25, 2023).
+  
+
