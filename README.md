@@ -30,6 +30,9 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 | ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
 | ProTrack [26]    | 2023 |   -/-   |       -/-        |    0.786/0.587   | 0.509/0.421       | [[Code]]           | [[Paper](https://doi.org/10.48550/arXiv.2207.14571)]                                       |
 
+| EANet [27]    | 2023 |   -/-   |       -/-        |    0.835/0.584   | 0.506/0.367       | [[Code](https://github.com/abbasturkoglu/EANet)]           | [[Paper](https://arxiv.org/abs/2307.01893)]     
+
+
 REFERENCES
 
 [1] C. Li, X. Wu, N. Zhao, X. Cao, and J. Tang, “Fusing two-stream convolutional neural networks for rgb-t object tracking,” Neurocomputing, vol. 281, pp. 78–85, 2018.
@@ -81,8 +84,7 @@ REFERENCES
 [24] Xiao Wang, Xiujun Shu, Shiliang Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, "Dynamic Modality-Aware Filter Generation for RGB-T Tracking", Accepted by IEEE Transactions on Multimedia (TMM), 2022.
 
 [25] J. Zhu, S. Lai, X. Chen, D. Wang, and H. Lu, “Visual Prompt Multi-Modal Tracking,” arXiv.org, Mar. 20, 2023. https://arxiv.org/abs/2303.10826 (accessed Apr. 24, 2023).
-
   
 [26] J. Yang, Z. Li, F. Zheng, A. Leonardis, and J. Song, “Prompting for Multi-Modal Tracking,” arXiv.org, Jul. 29, 2022. https://arxiv.org/abs/2207.14571 (accessed Apr. 25, 2023).
   
-
+[27] Abbas Türkoğlu and Erdem Akagündüz "EANet: enhanced attribute-based RGBT tracker network", Proc. SPIE 13072, Sixteenth International Conference on Machine Vision (ICMV 2023), 1307218 (3 April 2024); https://doi.org/10.1117/12.3023347
