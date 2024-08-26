@@ -30,7 +30,7 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 | ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
 | ProTrack [26]    | 2023 |   -/-   |       -/-        |    0.786/0.587   | 0.509/0.421       | [[Code]]           | [[Paper](https://doi.org/10.48550/arXiv.2207.14571)]                                       |
 
-| EANet [27]    | 2023 |   -/-   |       -/-        |    0.835/0.584   | 0.506/0.367       | [[Code](https://github.com/abbasturkoglu/EANet)]           | [[Paper](https://arxiv.org/abs/2307.01893)]     
+| EANet [27]    | 2023 |   -/-   |       -/-        |    0.835/0.584   | 0.506/0.367       | [[Code](https://github.com/abbasturkoglu/EANet)]           | [[Paper](https://arxiv.org/abs/2307.01893)]      |
 
 
 REFERENCES
