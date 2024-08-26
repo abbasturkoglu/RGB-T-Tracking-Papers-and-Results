@@ -29,7 +29,7 @@ A selection of RGB-TIR object tracking papers and their performance on various b
 | MFGNet [24]    | 2022 | 0.889/0.707     | 0.749/0.494               | 0.783/0.535       | -/-       | [[Code](https://github.com/wangxiao5791509/MFG_RGBT_Tracking_PyTorch)]           | [[Paper](https://doi.org/10.48550/arXiv.2107.10433)]                                       |
 | ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
 | ProTrack [26]    | 2023 |   -/-   |       -/-        |    0.786/0.587   | 0.509/0.421       | [[Code]]           | [[Paper](https://doi.org/10.48550/arXiv.2207.14571)]                                       |
-
+| ViPT [25]    | 2023 |   -/-   |       -/-        | 0.835/0.617      | 0.651/0.525       | [[Code](https://github.com/jiawen-zhu/ViPT)]           | [[Paper](https://doi.org/10.48550/arXiv.2303.10826)]                                       |
 | EANet [27]    | 2023 |   -/-   |       -/-        |    0.835/0.584   | 0.506/0.367       | [[Code](https://github.com/abbasturkoglu/EANet)]           | [[Paper](https://arxiv.org/abs/2307.01893)]      |
 
 
